@@ -1,2 +1,2 @@
 # nle_faithfulness
-Repository for the paper "Faithfulness Tests for Natural Language Explanations"
+Code for the the paper "Faithfulness Tests for Natural Language Explanations" will be uploaded shortly.
